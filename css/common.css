@@ -1,0 +1,68 @@
+.header {
+  padding: 20px;
+}
+
+.logo {
+  margin: 20px auto;
+  text-align: center;
+}
+
+.logo img {
+  max-width: 120px;
+}
+
+.nae {
+  text-align: center;
+}
+
+.nae li {
+  display: inline-block;
+  padding: 20px;
+}
+
+.footer {
+  background-color: #000;
+  color: #fff;
+  overflow: hidden;
+  text-align: center;
+  padding: 30px 0px 60px;
+}
+
+.footer h4 {
+  font-size: 1.5em;
+  font-style: italic;
+  font-weight: 800;
+  text-transform: uppercase;
+  padding-bottom: 20px;
+}
+
+.footer .links,
+.footer .follw {
+  width: 50%;
+  max-width: 590px;
+  display: inline-block;
+  margin: auto;
+  text-align: left;
+}
+
+
+
+.follw li {
+  display: inline-block;
+
+}
+
+.follw li {
+  display: inline-block;
+
+}
+
+.follw a {
+  display: block;
+  color: #fff;
+}
+
+.follw .icon {
+  width: 24px;
+  height: 24px;
+}
